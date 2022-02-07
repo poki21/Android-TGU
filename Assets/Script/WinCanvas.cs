@@ -7,7 +7,7 @@ public class WinCanvas : MonoBehaviour
     public Game Game;
     void Update()
     {
-        Text.text = $"GREAT! \n YOU PASSED LEVEL {Game.LevelIndex + 1}! \n NEXT LEVEL?";
-        if (Game.LevelIndex == 2) Text.text = $"YOU ARE AWESOME! \n THANKS FOR PLAYING! \n RESTART GAME?";
+        Text.text = $"YOU WIN! \n NEXT ROUND ?";
+        if (Game.LevelIndex == 2) Text.text = $"RESTART GAME?";
     }
 }
