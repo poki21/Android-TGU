@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: dbb721b2cbb7e5148ad317dfd1a376cf
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Player: {instanceID: 0}
+  - Game: {instanceID: 0}
+  - damage: {fileID: 8300000, guid: dc8186b25b6d9f64689783cc95c76ebf, type: 3}
+  - foodeat: {fileID: 8300000, guid: 99fe66727b7777048ab5c42516d711e9, type: 3}
+  - powerup: {fileID: 8300000, guid: 266c0b9c1b4cac247b035f5a8c818aef, type: 3}
+  - PlayerDamage: {instanceID: 0}
+  - WinCanvas: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
